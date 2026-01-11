@@ -1,0 +1,33 @@
+{
+    "cdmVersionRange": ">=5.0.0",
+    "PrimaryCriteria": {
+        "CriteriaList": [
+            {
+                "ConditionOccurrence": {
+                    "CodesetId": 43530714,
+                    "ConditionTypeExclude": false
+                }
+            },
+            {
+                "Observation": {
+                    "CodesetId": 271801002,
+                    "ObservationTypeExclude": false
+                }
+            },
+            {
+                "DrugExposure": {
+                    "CodesetId": null,
+                    "First": true,
+                    "DrugTypeExclude": false
+                }
+            }
+        ],
+        "ObservationWindow": {
+            "PriorDays": 0,
+            "PostDays": 14
+        },
+        "PrimaryCriteriaLimit": {
+            "Type": "First"
+        }
+    }
+}

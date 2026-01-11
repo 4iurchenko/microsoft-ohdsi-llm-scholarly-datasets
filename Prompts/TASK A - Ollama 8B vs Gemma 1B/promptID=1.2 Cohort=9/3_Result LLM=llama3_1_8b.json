@@ -1,0 +1,28 @@
+{
+  "tables": [
+    {
+      "table_id": "table_1",
+      "name": "Bronchitis or Bronchiolitis",
+      "rows": [
+        {
+          "Concept_ID": "256451", 
+          "Concept_Name": "Bronchitis",
+          "Code": "32398004",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4165112", 
+          "Concept_Name": "Bronchiolitis",
+          "Code": "4120002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

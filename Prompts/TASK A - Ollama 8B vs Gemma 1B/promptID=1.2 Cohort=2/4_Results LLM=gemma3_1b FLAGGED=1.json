@@ -1,0 +1,34 @@
+{
+  "tables": [
+    {
+      "table_id": "196523",
+      "name": "Diarrhea",
+      "rows": [
+        {
+          "Concept_ID": "196523",
+          "Concept_Name": "Diarrhea",
+          "Code": "62315008",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "80141",
+      "name": "Functional diarrhea",
+      "rows": [
+        {
+          "Concept_ID": "80141",
+          "Concept_Name": "Functional diarrhea",
+          "Code": "47812002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

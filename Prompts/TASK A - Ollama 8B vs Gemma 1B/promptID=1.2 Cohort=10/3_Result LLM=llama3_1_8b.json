@@ -1,0 +1,46 @@
+{
+  "tables": [
+    {
+      "table_id": "table_1",
+      "name": "Acute respiratory distress syndrome (ARDS) or Acute Respiratory Failure",
+      "rows": [
+        {
+          "Concept_ID": "4191650",
+          "Concept_Name": "Acute respiratory distress",
+          "Code": "373895009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4195694",
+          "Concept_Name": "Acute respiratory distress syndrome",
+          "Code": "67782005",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "319049",
+          "Concept_Name": "Acute respiratory failure",
+          "Code": "65710008",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "258866",
+          "Concept_Name": "Respiratory distress syndrome in the newborn",
+          "Code": "46775006",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

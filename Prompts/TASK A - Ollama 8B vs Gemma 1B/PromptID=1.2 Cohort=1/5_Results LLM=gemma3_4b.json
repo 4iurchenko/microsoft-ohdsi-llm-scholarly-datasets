@@ -1,0 +1,28 @@
+{
+  "tables": [
+    {
+      "table_id": "table_1",
+      "name": "Cough or Suptum Finding",
+      "rows": [
+        {
+          "Concept_ID": "254761",
+          "Concept_Name": "Cough",
+          "Code": "49727002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4089228",
+          "Concept_Name": "Sputum finding",
+          "Code": "248595008",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "tables": [
+    {
+      "table_id": "1",
+      "name": "Headache including migraine and neurologic pain",
+      "rows": [
+        {
+          "Concept_ID": "378253",
+          "Concept_Name": "Headache",
+          "Code": "25064002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "375527",
+          "Concept_Name": "Headache disorder",
+          "Code": "230461009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "73231",
+          "Concept_Name": "Arthralgia of temporomandibular joint",
+          "Code": "91943004",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "441334",
+          "Concept_Name": "Glossodynia",
+          "Code": "30731004",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "38000975",
+          "Concept_Name": "Headaches w MCC",
+          "Code": "102",
+          "Vocabulary": "DRG",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "38000976",
+          "Concept_Name": "Headaches w/o MCC",
+          "Code": "103",
+          "Vocabulary": "DRG",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "2",
+      "name": "",
+      "rows": [
+        {
+            "Concept_ID": "...",
+            "Concept_Name": "...",
+            "Code": "...",
+            "Vocabulary": "...",
+            "Excluded": "...",
+            "Descendants": "...",
+            "Mapped": "..."
+        },
+        {
+            "Concept_ID": "...",
+            "Concept_Name": "...",
+            "Code": "...",
+            "Vocabulary": "...",
+            "Excluded": "...",
+            "Descendants": "...",
+            "Mapped": "..."
+        }
+      ]
+    }
+  ]
+}

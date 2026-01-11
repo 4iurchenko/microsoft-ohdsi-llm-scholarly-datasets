@@ -1,0 +1,151 @@
+{
+  "tables": [
+    {
+      "table_id": "table_1",
+      "name": "Try to extract table name from the title…",
+      "rows": [
+        {
+          "Concept_ID": "439235",
+          "Concept_Name": "Self inflicted injury",
+          "Code": "276853009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4181216",
+          "Concept_Name": "Self-administered poisoning",
+          "Code": "363293009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "444362",
+          "Concept_Name": "Suicide",
+          "Code": "86849004",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "440925",
+          "Concept_Name": "Suicide",
+          "Code": "44301001",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4303690",
+          "Concept_Name": "Intentionally harming self",
+          "Code": "418420002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4219484",
+          "Concept_Name": "Suicide attempt",
+          "Code": "82313006",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "435446",
+          "Concept_Name": "Late effect of self inflicted injury",
+          "Code": "219174008",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4092411",
+          "Concept_Name": "Self-injurious behavior",
+          "Code": "248062006",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "table_2",
+      "name": "Try to extract table name from the title…",
+      "rows": [
+        {
+          "Concept_ID": "4181216",
+          "Concept_Name": "Self-administered poisoning",
+          "Code": "363293009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "444362",
+          "Concept_Name": "Suicidal deliberate poisoning",
+          "Code": "86849004",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "440925",
+          "Concept_Name": "Suicide",
+          "Code": "44301001",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4303690",
+          "Concept_Name": "Intentionally harming self",
+          "Code": "418420002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4219484",
+          "Concept_Name": "Suicide attempt",
+          "Code": "82313006",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "435446",
+          "Concept_Name": "Late effect of self inflicted injury",
+          "Code": "219174008",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4092411",
+          "Concept_Name": "Self-injurious behavior",
+          "Code": "248062006",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

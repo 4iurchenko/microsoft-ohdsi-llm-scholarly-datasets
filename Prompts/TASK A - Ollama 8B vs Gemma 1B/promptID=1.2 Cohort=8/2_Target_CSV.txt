@@ -1,0 +1,4 @@
+|Concept ID|Concept Name|Code|Vocabulary|Excluded|Descendants|Mapped
+|:---|:---------------------------------------|:--|:-----|:--:|:--:|:--:|
+|442752|Muscle pain|68962001|SNOMED|NO|YES|NO|
+|4150129|Musculoskeletal pain|279069000|SNOMED|NO|NO|NO|

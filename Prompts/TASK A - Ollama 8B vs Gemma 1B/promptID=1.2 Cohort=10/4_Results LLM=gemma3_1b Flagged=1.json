@@ -1,0 +1,82 @@
+{
+  "tables": [
+    {
+      "table_id": "4191650",
+      "name": "Acute respiratory distress",
+      "rows": [
+        {
+          "Concept_ID": "4191650",
+          "Concept_Name": "Acute respiratory distress",
+          "Code": "373895009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4195694",
+          "Concept_Name": "Acute respiratory failure",
+          "Code": "67782005",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "319049",
+          "Concept_Name": "Acute respiratory failure",
+          "Code": "65710008",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "4195694",
+      "name": "Acute respiratory failure",
+      "rows": [
+        {
+          "Concept_ID": "4195694",
+          "Concept_Name": "Acute respiratory failure",
+          "Code": "67782005",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "319049",
+      "name": "Acute respiratory failure",
+      "rows": [
+        {
+          "Concept_ID": "319049",
+          "Concept_Name": "Acute respiratory failure",
+          "Code": "65710008",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "258866",
+      "name": "Respiratory distress syndrome in the newborn",
+      "rows": [
+        {
+          "Concept_ID": "258866",
+          "Concept_Name": "Respiratory distress syndrome in the newborn",
+          "Code": "46775006",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

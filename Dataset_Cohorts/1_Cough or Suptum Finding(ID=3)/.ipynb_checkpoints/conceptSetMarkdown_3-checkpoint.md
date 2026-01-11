@@ -1,0 +1,7 @@
+### Cough or Suptum Finding
+|Concept ID|Concept Name|Code|Vocabulary|Excluded|Descendants|Mapped
+|:---|:---------------------------------------|:--|:-----|:--:|:--:|:--:|
+|254761|Cough|49727002|SNOMED|NO|YES|NO|
+|4089228|Sputum finding|248595008|SNOMED|NO|YES|NO|
+  
+

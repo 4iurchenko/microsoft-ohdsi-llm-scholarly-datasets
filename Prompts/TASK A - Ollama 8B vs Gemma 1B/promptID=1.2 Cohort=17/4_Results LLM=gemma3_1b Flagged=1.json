@@ -1,0 +1,52 @@
+{
+  "tables": [
+    {
+      "table_id": "table_1",
+      "name": "Plaque psoriasis",
+      "rows": [
+        {
+          "Concept_ID": "140168",
+          "Concept_Name": "Psoriasis vulgaris",
+          "Code": "9014002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4307925",
+          "Concept_Name": "Psoriasis vulgaris",
+          "Code": "200975009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "table_2",
+      "name": "Try to extract table name from the title…",
+      "rows": [
+        {
+             "Concept_ID": "tildrakizumab",
+             "Concept_Name": "tildrakizumab",
+             "Code": "2053436",
+             "Vocabulary": "RxNorm",
+             "Excluded": "NO",
+             "Descendants": "NO",
+             "Mapped": "NO"
+        },
+        {
+             "Concept_ID": "risankizumab",
+             "Concept_Name": "risankizumab",
+             "Code": "2166040",
+             "Vocabulary": "RxNorm",
+             "Excluded": "NO",
+             "Descendants": "NO",
+             "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

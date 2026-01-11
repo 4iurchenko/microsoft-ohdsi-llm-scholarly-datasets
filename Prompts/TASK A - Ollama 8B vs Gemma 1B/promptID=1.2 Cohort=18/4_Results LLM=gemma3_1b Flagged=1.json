@@ -1,0 +1,187 @@
+{
+  "tables": [
+    {
+      "table_id": "table_1",
+      "name": "Try to extract table name from the title…",
+      "rows": [
+        {
+          "Concept_ID": "40081374",
+          "Concept_Name": "sulfamethoxazole / trimethoprim Injectable Solution",
+          "Code": "RxNorm",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "36882762",
+          "Concept_Name": "Sulfamethoxazole / Trimethoprim Injectable Suspension",
+          "Code": "RxNorm Extension",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "40220482",
+          "Concept_Name": "sulfamethoxazole / trimethoprim Injection",
+          "Code": "RxNorm",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "35153537",
+          "Concept_Name": "Sulfamethoxazole / Trimethoprim Oral Granules",
+          "Code": "RxNorm",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "40147374",
+          "Concept_Name": "sulfamethoxazole / trimethoprim Oral Solution",
+          "Code": "RxNorm",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "40081388",
+          "Concept_Name": "sulfamethoxazole / trimethoprim Oral Tablet",
+          "Code": "RxNorm",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "1705674",
+          "Concept_Name": "trimethoprim",
+          "Code": "SNOMED",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "40073114",
+          "Concept_Name": "polymyxin B / trimethoprim Ophthalmic Ointment",
+          "Code": "RxNorm",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "40073115",
+          "Concept_Name": "polymyxin B / trimethoprim Ophthalmic Solution",
+          "Code": "RxNorm",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "40180925",
+          "Concept_Name": "sulfamethazine / trimethoprim Topical Solution",
+          "Code": "RxNorm",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        }
+      ]
+    },
+    {
+      "table_id": "table_2",
+      "name": "Try to extract table name from the title…",
+      "rows": [
+        {
+          "Concept_ID": "36882762",
+          "Concept_Name": "Sulfamethoxazole / Trimethoprim Injectable Suspension",
+          "Code": "RxNorm Extension",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "40220482",
+          "Concept_Name": "sulfamethoxazole / trimethoprim Injection",
+          "Code": "RxNorm",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "35153537",
+          "Concept_Name": "Sulfamethoxazole / Trimethoprim Oral Granules",
+          "Code": "RxNorm",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "40147374",
+          "Concept_Name": "sulfamethoxazole / trimethoprim Oral Solution",
+          "Code": "RxNorm",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "40081388",
+          "Concept_Name": "sulfamethoxazole / trimethoprim Oral Tablet",
+          "Code": "RxNorm",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "1705674",
+          "Concept_Name": "trimethoprim",
+          "Code": "SNOMED",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "40073114",
+          "Concept_Name": "polymyxin B / trimethoprim Ophthalmic Ointment",
+          "Code": "RxNorm",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "40073115",
+          "Concept_Name": "polymyxin B / trimethoprim Ophthalmic Solution",
+          "Code": "RxNorm",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        },
+        {
+          "Concept_ID": "40180925",
+          "Concept_Name": "sulfamethazine / trimethoprim Topical Solution",
+          "Code": "RxNorm",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "YES"
+        }
+      ]
+    }
+  ]
+}

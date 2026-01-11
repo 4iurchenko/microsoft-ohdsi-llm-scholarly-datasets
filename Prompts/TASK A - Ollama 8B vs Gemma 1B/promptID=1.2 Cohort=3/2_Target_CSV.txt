@@ -1,0 +1,5 @@
+|Concept ID|Concept Name|Code|Vocabulary|Excluded|Descendants|Mapped
+|:---|:---------------------------------------|:--|:-----|:--:|:--:|:--:|
+|4305080|Abnormal breathing|386813002|SNOMED|NO|YES|NO|
+|4041664|Difficulty breathing|230145002|SNOMED|NO|YES|NO|
+|4222908|Borg Breathlessness Score: 0 none at all|401275008|SNOMED|YES|YES|NO|

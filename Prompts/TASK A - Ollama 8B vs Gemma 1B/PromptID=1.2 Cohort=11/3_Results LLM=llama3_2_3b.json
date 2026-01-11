@@ -1,0 +1,115 @@
+{
+  "tables": [
+    {
+      "table_id": "Concept sets: Type 2 Diabetes Mellitus",
+      "name": "Type 2 Diabetes Mellitus",
+      "rows": [
+        {
+          "Concept_ID": "201820",
+          "Concept_Name": "Diabetes mellitus",
+          "Code": "73211009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "442793",
+          "Concept_Name": "Complication due to diabetes mellitus",
+          "Code": "74627003",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "443238",
+          "Concept_Name": "Diabetic - poor control",
+          "Code": "268519009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "201254",
+          "Concept_Name": "Type 1 diabetes mellitus",
+          "Code": "46635009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4058243",
+          "Concept_Name": "Diabetes mellitus during pregnancy, childbirth and the puerperium",
+          "Code": "199223000",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "435216",
+          "Concept_Name": "Disorder due to type 1 diabetes mellitus",
+          "Code": "420868002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "40484648",
+          "Concept_Name": "Type 1 diabetes mellitus uncontrolled",
+          "Code": "444073006",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "Concept sets: History of diabetes",
+      "name": "History of diabetes",
+      "rows": [
+        {
+          "Concept_ID": "40769338",
+          "Concept_Name": "History of Diabetes (regardless of treatment) [PhenX]",
+          "Code": "66678-4",
+          "Vocabulary": "LOINC",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "43021173",
+          "Concept_Name": "History of diabetes mellitus type 2",
+          "Code": "472969004",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "42539022",
+          "Concept_Name": "History of diabetes related lower limb amputation",
+          "Code": "735199000",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "46270562",
+          "Concept_Name": "History of small vessel disease due to diabetes mellitus",
+          "Code": "59801000119102",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

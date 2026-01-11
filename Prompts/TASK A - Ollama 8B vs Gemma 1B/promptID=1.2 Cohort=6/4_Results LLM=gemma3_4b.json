@@ -1,0 +1,136 @@
+{
+  "tables": [
+    {
+      "table_id": "table_1",
+      "name": "Sore throat",
+      "rows": [
+        {
+          "Concept_ID": "4036632",
+          "Concept_Name": "Has a sore throat",
+          "Code": "162388002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4173027",
+          "Concept_Name": "Acute laryngitis and/or tracheitis",
+          "Code": "276443001",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "259153",
+          "Concept_Name": "Pain in throat",
+          "Code": "162397003",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "24969",
+          "Concept_Name": "Laryngitis",
+          "Code": "45913009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4148121",
+          "Concept_Name": "Tonsil and/or adenoid hypertrophy",
+          "Code": "266343004",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4226263",
+          "Concept_Name": "Pharyngitis",
+          "Code": "405737000",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4083666",
+          "Concept_Name": "Inflamed tonsils",
+          "Code": "281795003",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "432347",
+          "Concept_Name": "Chronic disease of tonsils AND/OR adenoids",
+          "Code": "16358007",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4170621",
+          "Concept_Name": "Vesicular pharyngitis",
+          "Code": "274102007",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4049240",
+          "Concept_Name": "Vincent's laryngitis",
+          "Code": "232427004",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4095420",
+          "Concept_Name": "Traumatic hemorrhagic laryngitis",
+          "Code": "262677003",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "44808497",
+          "Concept_Name": "Acute bacterial laryngitis",
+          "Code": "849571000000102",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "30333",
+          "Concept_Name": "Gonorrhea of pharynx",
+          "Code": "74372003",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "46270516",
+          "Concept_Name": "Laryngeal obstruction due to supraglottitis",
+          "Code": "36491000119101",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

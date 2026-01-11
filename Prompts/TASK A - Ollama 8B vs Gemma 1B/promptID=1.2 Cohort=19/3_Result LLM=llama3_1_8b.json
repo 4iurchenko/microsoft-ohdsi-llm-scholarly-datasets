@@ -1,0 +1,118 @@
+{
+  "tables": [
+    {
+      "table_id": "table_1",
+      "name": "[HowOften] Beta blockers",
+      "rows": [
+        {
+          "Concept_ID": "1319998",
+          "Concept_Name": "acebutolol",
+          "Code": "149",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "1314002",
+          "Concept_Name": "atenolol",
+          "Code": "1202",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "1322081",
+          "Concept_Name": "betaxolol",
+          "Code": "1520",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "1338005",
+          "Concept_Name": "bisoprolol",
+          "Code": "19484",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "1346823",
+          "Concept_Name": "carvedilol",
+          "Code": "20352",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "1386957",
+          "Concept_Name": "labetalol",
+          "Code": "6185",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "1307046",
+          "Concept_Name": "metoprolol",
+          "Code": "6918",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "1313200",
+          "Concept_Name": "nadolol",
+          "Code": "7226",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "1314577",
+          "Concept_Name": "nebivolol",
+          "Code": "31555",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "1327978",
+          "Concept_Name": "penbutolol",
+          "Code": "7973",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "1345858",
+          "Concept_Name": "pindolol",
+          "Code": "8332",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "1353766",
+          "Concept_Name": "propranolol",
+          "Code": "8787",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

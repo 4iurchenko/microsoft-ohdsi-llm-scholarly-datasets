@@ -1,0 +1,79 @@
+{
+  "tables": [
+    {
+      "table_id": "43530714",
+      "name": "Sensory disorder of smell and/or taste",
+      "rows": [
+        {
+          "Concept_ID": "43530714",
+          "Concept_Name": "Sensory disorder of smell and/or taste",
+          "Code": "2611000119103",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "4185711",
+      "name": "Loss of sense of smell",
+      "rows": [
+        {
+          "Concept_ID": "4185711",
+          "Concept_Name": "Loss of sense of smell",
+          "Code": "44169009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "436235",
+      "name": "Taste sense altered",
+      "rows": [
+        {
+          "Concept_ID": "436235",
+          "Concept_Name": "Taste sense altered",
+          "Code": "271801002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "4289517",
+      "name": "Loss of taste",
+      "rows": [
+        {
+          "Concept_ID": "4289517",
+          "Concept_Name": "Loss of taste",
+          "Code": "36955009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "4044243",
+      "name": "Mucosal anosmia",
+      "rows": [
+        {
+          "Concept_ID": "4044243",
+          "Concept_Name": "Mucosal anosmia",
+          "Code": "230503008",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

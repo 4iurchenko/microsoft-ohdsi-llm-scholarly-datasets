@@ -1,0 +1,6 @@
+|Concept ID|Concept Name|Code|Vocabulary|Excluded|Descendants|Mapped
+|:---|:---------------------------------------|:--|:-----|:--:|:--:|:--:|
+|4191650|Acute respiratory distress|373895009|SNOMED|YES|YES|NO|
+|4195694|Acute respiratory distress syndrome|67782005|SNOMED|NO|YES|NO|
+|319049|Acute respiratory failure|65710008|SNOMED|NO|YES|NO|
+|258866|Respiratory distress syndrome in the newborn|46775006|SNOMED|YES|YES|NO|

@@ -1,0 +1,88 @@
+{
+  "tables": [
+    {
+      "table_id": "table_1",
+      "name": "Try to extract table name from the title…",
+      "rows": [
+        {
+            "Concept_ID": "1395058",
+            "Concept_Name": "chlorthalidone",
+            "Code": "2409",
+            "Vocabulary": "RxNorm",
+            "Excluded": "NO",
+            "Descendants": "NO",
+            "Mapped": "NO"
+        },
+        {
+            "Concept_ID": "974166",
+            "Concept_Name": "hydrochlorothiazide",
+            "Code": "5487",
+            "Vocabulary": "RxNorm",
+            "Excluded": "NO",
+            "Descendants": "NO",
+            "Mapped": "NO"
+        },
+        {
+            "Concept_ID": "978555",
+            "Concept_Name": "indapamide",
+            "Code": "5764",
+            "Vocabulary": "RxNorm",
+            "Excluded": "NO",
+            "Descendants": "NO",
+            "Mapped": "NO"
+        },
+        {
+            "Concept_ID": "907013",
+            "Concept_Name": "metolazone",
+            "Code": "6916",
+            "Vocabulary": "RxNorm",
+            "Excluded": "NO",
+            "Descendants": "NO",
+            "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "table_2",
+      "name": "Try to extract table name from the title…",
+      "rows": [
+        {
+            "Concept_ID": "1395058",
+            "Concept_Name": "chlorthalidone",
+            "Code": "2409",
+            "Vocabulary": "RxNorm",
+            "Excluded": "NO",
+            "Descendants": "NO",
+            "Mapped": "NO"
+        },
+        {
+            "Concept_ID": "974166",
+            "Concept_Name": "hydrochlorothiazide",
+            "Code": "5487",
+            "Vocabulary": "RxNorm",
+            "Excluded": "NO",
+            "Descendants": "NO",
+            "Mapped": "NO"
+        },
+        {
+            "Concept_ID": "978555",
+            "Concept_Name": "indapamide",
+            "Code": "5764",
+            "Vocabulary": "RxNorm",
+            "Excluded": "NO",
+            "Descendants": "NO",
+            "Mapped": "NO"
+        },
+        {
+            "Concept_ID": "907013",
+            "Concept_Name": "metolazone",
+            "Code": "6916",
+            "Vocabulary": "RxNorm",
+            "Excluded": "NO",
+            "Descendants": "NO",
+            "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

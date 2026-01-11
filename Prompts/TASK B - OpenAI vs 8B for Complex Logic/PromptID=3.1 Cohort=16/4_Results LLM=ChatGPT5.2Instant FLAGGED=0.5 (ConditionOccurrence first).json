@@ -1,0 +1,20 @@
+{
+	"cdmVersionRange": ">=5.0.0",
+	"PrimaryCriteria": {
+		"CriteriaList": [
+			{
+				"ConditionOccurrence": {
+					"CodesetId": 0,
+					"ConditionTypeExclude": false
+				}
+			}
+		],
+		"ObservationWindow": {
+			"PriorDays": 365,
+			"PostDays": 0
+		},
+		"PrimaryCriteriaLimit": {
+			"Type": "First"
+		}
+	}
+}

@@ -1,0 +1,3 @@
+|Concept ID|Concept Name|Code|Vocabulary|Excluded|Descendants|Mapped
+|:---|:---------------------------------------|:--|:-----|:--:|:--:|:--:|
+|4112853|Malignant tumor of breast|254837009|SNOMED|NO|YES|NO|

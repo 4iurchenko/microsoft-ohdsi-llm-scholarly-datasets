@@ -1,0 +1,220 @@
+{
+  "tables": [
+    {
+      "table_id": "table_1",
+      "name": "[HowOften] Trimethoprim systemetic",
+      "rows": [
+        {
+          "Concept_ID": "40081374",
+          "Concept_Name": "sulfamethoxazole / trimethoprim Injectable Solution",
+          "Code": "377117",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "36882762",
+          "Concept_Name": "Sulfamethoxazole / Trimethoprim Injectable Suspension",
+          "Code": "OMOP994039",
+          "Vocabulary": "RxNorm Extension",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "40220482",
+          "Concept_Name": "sulfamethoxazole / trimethoprim Injection",
+          "Code": "1809082",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "35153537",
+          "Concept_Name": "Sulfamethoxazole / Trimethoprim Oral Granules",
+          "Code": "OMOP4810565",
+          "Vocabulary": "RxNorm Extension",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "40147374",
+          "Concept_Name": "sulfamethoxazole / trimethoprim Oral Solution",
+          "Code": "757319",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "40081379",
+          "Concept_Name": "sulfamethoxazole / trimethoprim Oral Suspension",
+          "Code": "374233",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "40081388",
+          "Concept_Name": "sulfamethoxazole / trimethoprim Oral Tablet",
+          "Code": "374234",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "1705674",
+          "Concept_Name": "trimethoprim",
+          "Code": "10829",
+          "Vocabulary": "RxNorm",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "40073114",
+          "Concept_Name": "polymyxin B / trimethoprim Ophthalmic Ointment",
+          "Code": "376523",
+          "Vocabulary": "RxNorm",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "40073115",
+          "Concept_Name": "polymyxin B / trimethoprim Ophthalmic Solution",
+          "Code": "379128",
+          "Vocabulary": "RxNorm",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "40180925",
+          "Concept_Name": "sulfamethazine / trimethoprim Topical Solution",
+          "Code": "991879",
+          "Vocabulary": "RxNorm",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "table_2",
+      "name": "Acute Typical Pneumonia",
+      "rows": [
+        {
+          "Concept_ID": "46269693",
+          "Concept_Name": "Chronic pneumonia",
+          "Code": "102361000119104",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4193174",
+          "Concept_Name": "Fungal respiratory infection",
+          "Code": "312149008",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "36712839",
+          "Concept_Name": "Idiopathic pneumonia syndrome",
+          "Code": "12381000132107",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4273378",
+          "Concept_Name": "Interstitial pneumonia",
+          "Code": "64667001",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "256622",
+          "Concept_Name": "Pulmonary disease due to Mycobacteria",
+          "Code": "84353005",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4318404",
+          "Concept_Name": "Lung consolidation",
+          "Code": "95436008",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "table_3",
+      "name": "Non Acute Typical Pneumonia",
+      "rows": [
+        {
+          "Concept_ID": "36712839",
+          "Concept_Name": "Idiopathic pneumonia syndrome",
+          "Code": "12381000132107",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4193174",
+          "Concept_Name": "Fungal respiratory infection",
+          "Code": "312149008",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "256622",
+          "Concept_Name": "Pulmonary disease due to Mycobacteria",
+          "Code": "84353005",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "46269693",
+          "Concept_Name": "Chronic pneumonia",
+          "Code": "102361000119104",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4273378",
+          "Concept_Name": "Interstitial pneumonia",
+          "Code": "64667001",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

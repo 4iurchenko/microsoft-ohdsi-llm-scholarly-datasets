@@ -1,0 +1,28 @@
+{
+  "tables": [
+    {
+      "table_id": "concept_sets_1",
+      "name": "Primary malignant neoplasm of kidney",
+      "rows": [
+        {
+          "Concept_ID": "198985", 
+          "Concept_Name": "Primary malignant neoplasm of kidney",
+          "Code": "93849006",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4215373", 
+          "Concept_Name": "Renal cell carcinoma",
+          "Code": "41607009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

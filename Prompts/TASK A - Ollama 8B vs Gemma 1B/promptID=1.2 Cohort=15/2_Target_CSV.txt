@@ -1,0 +1,4 @@
+|Concept ID|Concept Name|Code|Vocabulary|Excluded|Descendants|Mapped
+|:---|:---------------------------------------|:--|:-----|:--:|:--:|:--:|
+|198985|Primary malignant neoplasm of kidney|93849006|SNOMED|NO|YES|NO|
+|4215373|Renal cell carcinoma|41607009|SNOMED|NO|NO|NO|

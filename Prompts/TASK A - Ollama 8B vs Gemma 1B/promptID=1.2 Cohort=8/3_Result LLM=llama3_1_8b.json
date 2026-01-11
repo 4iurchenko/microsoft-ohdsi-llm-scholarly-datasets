@@ -1,0 +1,28 @@
+{
+  "tables": [
+    {
+      "table_id": "table_1",
+      "name": "Myalgia",
+      "rows": [
+        {
+          "Concept_ID": "442752",
+          "Concept_Name": "Muscle pain",
+          "Code": "68962001",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4150129",
+          "Concept_Name": "Musculoskeletal pain",
+          "Code": "279069000",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

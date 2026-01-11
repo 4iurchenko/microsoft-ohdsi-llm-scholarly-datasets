@@ -1,0 +1,37 @@
+{
+  "tables": [
+    {
+      "table_id": "table_1",
+      "name": "Rhinitis or Common cold or Sinusitis",
+      "rows": [
+        {
+          "Concept_ID": "4320791",
+          "Concept_Name": "Rhinitis",
+          "Code": "70076002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "260427",
+          "Concept_Name": "Common cold",
+          "Code": "82272006",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4283893",
+          "Concept_Name": "Sinusitis",
+          "Code": "36971009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+### [HowOften] Thiazide or thiazide-like diuretics
+|Concept ID|Concept Name|Code|Vocabulary|Excluded|Descendants|Mapped
+|:---|:---------------------------------------|:--|:-----|:--:|:--:|:--:|
+|1395058|chlorthalidone|2409|RxNorm|NO|YES|NO|
+|974166|hydrochlorothiazide|5487|RxNorm|NO|YES|NO|
+|978555|indapamide|5764|RxNorm|NO|YES|NO|
+|907013|metolazone|6916|RxNorm|NO|YES|NO|

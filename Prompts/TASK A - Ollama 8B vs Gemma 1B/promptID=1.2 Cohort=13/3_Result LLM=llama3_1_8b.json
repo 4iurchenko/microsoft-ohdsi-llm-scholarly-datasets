@@ -1,0 +1,322 @@
+{
+  "tables": [
+    {
+      "table_id": "table_1",
+      "name": "Inpatient or ER visit",
+      "rows": [
+        {
+          "Concept_ID": "262",
+          "Concept_Name": "Emergency Room and Inpatient Visit",
+          "Code": "ERIP",
+          "Vocabulary": "Visit",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "9203",
+          "Concept_Name": "Emergency Room Visit",
+          "Code": "ER",
+          "Vocabulary": "Visit",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "9201",
+          "Concept_Name": "Inpatient Visit",
+          "Code": "IP",
+          "Vocabulary": "Visit",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "table_2",
+      "name": "Gastrointestinal hemorrhage GI bleeding",
+      "rows": [
+        {
+          "Concept_ID": "4138962",
+          "Concept_Name": "Acute duodenal ulcer without hemorrhage AND without perforation",
+          "Code": "32490005",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4195231",
+          "Concept_Name": "Acute gastric ulcer without hemorrhage AND without perforation",
+          "Code": "67964002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4147683",
+          "Concept_Name": "Acute gastrojejunal ulcer without hemorrhage AND without perforation",
+          "Code": "30514008",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4163865",
+          "Concept_Name": "Acute peptic ulcer without hemorrhage AND without perforation",
+          "Code": "45485004",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "195584",
+          "Concept_Name": "Acute peptic ulcer without hemorrhage AND without perforation but with obstruction",
+          "Code": "58085004",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "40482685",
+          "Concept_Name": "Angiodysplasia of duodenum",
+          "Code": "442267002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "28779",
+          "Concept_Name": "Bleeding esophageal varices",
+          "Code": "17709002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4222896",
+          "Concept_Name": "Chronic duodenal ulcer without hemorrhage AND without perforation",
+          "Code": "40214005",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4296611",
+          "Concept_Name": "Chronic gastric ulcer without hemorrhage AND without perforation",
+          "Code": "76796008",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "200769",
+          "Concept_Name": "Chronic gastric ulcer without hemorrhage, without perforation AND without obstruction",
+          "Code": "1567007",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4177387",
+          "Concept_Name": "Chronic gastrojejunal ulcer without hemorrhage AND without perforation",
+          "Code": "4269005",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "434400",
+          "Concept_Name": "Chronic gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction",
+          "Code": "56579005",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "438795",
+          "Concept_Name": "Chronic gastrojejunal ulcer without hemorrhage, without perforation AND without obstruction",
+          "Code": "41626001",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4204555",
+          "Concept_Name": "Chronic peptic ulcer without hemorrhage AND without perforation",
+          "Code": "5492000",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "24973",
+          "Concept_Name": "Chronic peptic ulcer without hemorrhage AND without perforation but with obstruction",
+          "Code": "12384004",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "23808",
+          "Concept_Name": "Chronic peptic ulcer without hemorrhage, without perforation AND without obstruction",
+          "Code": "60400003",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "2002608",
+          "Concept_Name": "Control of hemorrhage and suture of ulcer of stomach or duodenum",
+          "Code": "44.4",
+          "Vocabulary": "ICD9Proc",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "198798",
+          "Concept_Name": "Dieulafoy's vascular malformation",
+          "Code": "109558001",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4198381",
+          "Concept_Name": "Ulcer of duodenum",
+          "Code": "51868009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4209746",
+          "Concept_Name": "Duodenal ulcer without hemorrhage AND without perforation",
+          "Code": "56776001",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4112183",
+          "Concept_Name": "Esophageal varices with bleeding, associated with another disorder",
+          "Code": "195475003",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "2108900",
+          "Concept_Name": "Esophagogastroduodenoscopy, flexible, transoral; with control of bleeding, any method",
+          "Code": "43255",
+          "Vocabulary": "CPT4",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "2108878",
+          "Concept_Name": "Esophagoscopy, flexible, transoral; with control of bleeding, any method",
+          "Code": "43227",
+          "Vocabulary": "CPT4",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4265600",
+          "Concept_Name": "Gastric ulcer",
+          "Code": "397825006",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4248429",
+          "Concept_Name": "Gastric ulcer without hemorrhage AND without perforation",
+          "Code": "73481001",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "192671",
+          "Concept_Name": "Gastrointestinal hemorrhage",
+          "Code": "74474003",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4101104",
+          "Concept_Name": "Gastrojejunal ulcer without hemorrhage AND without perforation",
+          "Code": "2783007",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "443530",
+          "Concept_Name": "Hematochezia",
+          "Code": "405729008",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "197925",
+          "Concept_Name": "Hemorrhage of rectum and anus",
+          "Code": "266464001",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4027663",
+          "Concept_Name": "Peptic ulcer",
+          "Code": "13200003",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4291028",
+          "Concept_Name": "Peptic ulcer without hemorrhage AND without perforation",
+          "Code": "37442009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "YES",
+          "Descendants": "YES",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

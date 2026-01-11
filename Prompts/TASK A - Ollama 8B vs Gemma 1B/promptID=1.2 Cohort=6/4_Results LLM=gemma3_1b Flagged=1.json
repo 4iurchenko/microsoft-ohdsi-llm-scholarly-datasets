@@ -1,0 +1,184 @@
+{
+  "tables": [
+    {
+      "table_id": "4036632",
+      "name": "Has a sore throat",
+      "rows": [
+        {
+          "Concept_ID": "4036632",
+          "Concept_Name": "Sore throat",
+          "Code": "162388002",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "4173027",
+      "name": "Acute laryngitis and/or tracheitis",
+      "rows": [
+        {
+          "Concept_ID": "4173027",
+          "Concept_Name": "Acute laryngitis and/or tracheitis",
+          "Code": "276443001",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "259153",
+      "name": "Pain in throat",
+      "rows": [
+        {
+          "Concept_ID": "259153",
+          "Concept_Name": "Pain in throat",
+          "Code": "162397003",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "24969",
+      "name": "Laryngitis",
+      "rows": [
+        {
+          "Concept_ID": "24969",
+          "Concept_Name": "Laryngitis",
+          "Code": "45913009",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "4148121",
+      "name": "Tonsil and/or adenoid hypertrophy",
+      "rows": [
+        {
+          "Concept_ID": "4148121",
+          "Concept_Name": "Tonsil and/or adenoid hypertrophy",
+          "Code": "266343004",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "4226263",
+      "name": "Pharyngitis",
+      "rows": [
+        {
+          "Concept_ID": "4226263",
+          "Concept_Name": "Pharyngitis",
+          "Code": "405737000",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "4083666",
+      "name": "Inflamed tonsils",
+      "rows": [
+        {
+          "Concept_ID": "4083666",
+          "Concept_Name": "Inflamed tonsils",
+          "Code": "281795003",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "432347",
+      "name": "Chronic disease of tonsils AND/OR adenoids",
+      "rows": [
+        {
+          "Concept_ID": "432347",
+          "Concept_Name": "Chronic disease of tonsils AND/OR adenoids",
+          "Code": "16358007",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "4170621",
+      "name": "Vesicular pharyngitis",
+      "rows": [
+        {
+          "Concept_ID": "4170621",
+          "Concept_Name": "Vesicular pharyngitis",
+          "Code": "274102007",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "4095420",
+      "name": "Traumatic hemorrhagic laryngitis",
+      "rows": [
+        {
+          "Concept_ID": "4095420",
+          "Concept_Name": "Traumatic hemorrhagic laryngitis",
+          "Code": "262677003",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "44808497",
+      "name": "Acute bacterial laryngitis",
+      "rows": [
+        {
+          "Concept_ID": "44808497",
+          "Concept_Name": "Acute bacterial laryngitis",
+          "Code": "849571000000102",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "30333",
+      "name": "Gonorrhea of pharynx",
+      "rows": [
+        {
+          "Concept_ID": "30333",
+          "Concept_Name": "Gonorrhea of pharynx",
+          "Code": "74372003",
+          "Vocabulary": "NO",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

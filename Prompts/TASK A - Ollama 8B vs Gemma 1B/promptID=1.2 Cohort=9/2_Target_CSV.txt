@@ -1,0 +1,4 @@
+|Concept ID|Concept Name|Code|Vocabulary|Excluded|Descendants|Mapped
+|:---|:---------------------------------------|:--|:-----|:--:|:--:|:--:|
+|256451|Bronchitis|32398004|SNOMED|NO|YES|NO|
+|4165112|Bronchiolitis|4120002|SNOMED|NO|YES|NO|

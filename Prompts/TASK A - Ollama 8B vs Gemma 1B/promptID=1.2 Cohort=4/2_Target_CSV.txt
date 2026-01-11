@@ -1,0 +1,8 @@
+|Concept ID|Concept Name|Code|Vocabulary|Excluded|Descendants|Mapped
+|:---|:---------------------------------------|:--|:-----|:--:|:--:|:--:|
+|378253|Headache|25064002|SNOMED|NO|YES|NO|
+|375527|Headache disorder|230461009|SNOMED|NO|YES|NO|
+|73231|Arthralgia of temporomandibular joint|91943004|SNOMED|YES|YES|NO|
+|441334|Glossodynia|30731004|SNOMED|YES|YES|NO|
+|38000975|Headaches w MCC|102|DRG|NO|YES|NO|
+|38000976|Headaches w/o MCC|103|DRG|NO|YES|NO|

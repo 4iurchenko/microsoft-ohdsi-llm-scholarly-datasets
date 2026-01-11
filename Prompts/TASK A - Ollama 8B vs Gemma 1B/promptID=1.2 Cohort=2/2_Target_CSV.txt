@@ -1,0 +1,4 @@
+|Concept ID|Concept Name|Code|Vocabulary|Excluded|Descendants|Mapped
+|:---|:---------------------------------------|:--|:-----|:--:|:--:|:--:|
+|196523|Diarrhea|62315008|SNOMED|NO|YES|NO|
+|80141|Functional diarrhea|47812002|SNOMED|NO|YES|NO|

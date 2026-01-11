@@ -1,0 +1,52 @@
+{
+  "tables": [
+    {
+      "table_id": "1",
+      "name": "Try to extract table name from the title…",
+      "rows": [
+        {
+          "Concept_ID": "4320791",
+          "Concept_Name": "Rhinitis",
+          "Code": "70076002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "260427",
+          "Concept_Name": "Common cold",
+          "Code": "82272006",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        },
+        {
+          "Concept_ID": "4283893",
+          "Concept_Name": "Sinusitis",
+          "Code": "36971009",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    },
+    {
+      "table_id": "2",
+      "name": "Try to extract table name from the title…",
+      "rows": [
+        {
+          "Concept_ID": "4320791",
+          "Concept_Name": "Rhinitis",
+          "Code": "70076002",
+          "Vocabulary": "SNOMED",
+          "Excluded": "NO",
+          "Descendants": "NO",
+          "Mapped": "NO"
+        }
+      ]
+    }
+  ]
+}

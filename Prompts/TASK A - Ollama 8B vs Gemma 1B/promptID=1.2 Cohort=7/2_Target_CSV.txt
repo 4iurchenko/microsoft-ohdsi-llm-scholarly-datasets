@@ -1,0 +1,5 @@
+|Concept ID|Concept Name|Code|Vocabulary|Excluded|Descendants|Mapped
+|:---|:---------------------------------------|:--|:-----|:--:|:--:|:--:|
+|4320791|Rhinitis|70076002|SNOMED|NO|YES|NO|
+|260427|Common cold|82272006|SNOMED|NO|YES|NO|
+|4283893|Sinusitis|36971009|SNOMED|NO|YES|NO|
